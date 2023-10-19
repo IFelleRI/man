@@ -1,0 +1,21 @@
+<?php
+$MESS['INFO_PAYER'] = 'Informationen für den Empfänger';
+$MESS['NAME'] = '*Name';
+$MESS['LAST_NAME'] = '*Nachname';
+$MESS['EMAIL'] = '*E-Mail';
+$MESS['PHONE'] = '*Telefon';
+$MESS['ADDRESS'] = 'Adresse';
+$MESS['COUNTRY'] = '*Land';
+$MESS['CITY'] = '*Stadt';
+$MESS['TOWN'] = 'Abrechnung';
+$MESS['STREET'] = '*Straße';
+$MESS['HOUSE'] = '*Haus';
+$MESS['APARTMENT'] = 'Wohnung';
+$MESS['INDEX'] = '*Postleitzahl';
+$MESS['SHT'] = 'Stücke';
+$MESS['PILL'] = 'Tabletten';
+$MESS['MG'] = 'mg';
+$MESS['FOR_ONE_PILL'] = 'einzelne Tablette';
+$MESS['ALL_PRICE'] = 'Zahlungsbetrag';
+$MESS['PRICE_METHOD'] = 'Art der Zahlung';
+$MESS['GO_PAY'] = 'Zur Zahlung gehen';

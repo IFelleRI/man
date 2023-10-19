@@ -1,0 +1,39 @@
+<?
+$aMenuLinks = Array(
+    Array(
+        "Startseite",
+        "/de/",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Alle Produkte",
+        "catalog/",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Verkaufsschlager",
+        "bestsellers/",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Blog",
+        "blog/",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Kontakte",
+        "contact/",
+        Array(),
+        Array(),
+        ""
+    ),
+);
+?>

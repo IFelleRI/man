@@ -1,0 +1,3 @@
+<?php
+$MESS['BANNER_LINK_TEXT'] = 'LEARN MORE';
+?>

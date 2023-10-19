@@ -1,0 +1,4 @@
+<?php
+$MESS['MAIN_MENU'] = 'NAVIGATION';
+$MESS['FOR_USER'] = 'For users';
+$MESS['CONTACT_MENU'] = 'CONTACTS';
